@@ -1,0 +1,45 @@
+.shape_footer{
+    height: 50px;
+    width: 50px;
+    border-radius: 150%;
+    position:absolute;
+    z-index: 1;
+}
+/* .line{
+    position:absolute;
+    height: 100px;
+    width: 3px;
+    background-color: rgba(1, 91, 247, 0.379);
+    bottom: 0px;
+    left: 300px;
+    transform: 10px;
+    transition-duration: 10px;
+    transition: 10deg;
+} */
+
+.shape1{
+    background-color: rgb(1, 91, 247);
+    bottom: 20px;
+    left: 50px;
+}
+
+.shape2{
+    background-color: rgba(220, 130, 4, 0.429);
+    bottom: 0px;
+    right: 0px;
+}
+.shape3{
+    background-color: rgb(220, 130, 4);
+    bottom: 115px;
+    left: 200px;
+}
+.shape4{
+    background-color: rgba(1, 91, 247, 0.379);
+    bottom: 140px;
+    right: 240px;
+}
+.shape5{
+    background-color: rgb(1, 91, 247);
+    bottom: 50px;
+    left: 240px;
+}
