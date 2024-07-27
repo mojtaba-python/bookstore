@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/online-bookstore/static/css/main.e5f9f654.css",
-    "main.js": "/online-bookstore/static/js/main.0c2a3bc5.js",
-    "static/media/logo.png": "/online-bookstore/static/media/logo.533d78060b73c0e54373.png",
-    "static/media/book1.png": "/online-bookstore/static/media/book1.c4e77d368c3924042837.png",
-    "static/media/revicons.eot": "/online-bookstore/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/online-bookstore/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/online-bookstore/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/online-bookstore/index.html",
-    "main.e5f9f654.css.map": "/online-bookstore/static/css/main.e5f9f654.css.map",
-    "main.0c2a3bc5.js.map": "/online-bookstore/static/js/main.0c2a3bc5.js.map"
+    "main.css": "/bookstore/static/css/main.d46bb727.css",
+    "main.js": "/bookstore/static/js/main.985280c6.js",
+    "static/media/logo.png": "/bookstore/static/media/logo.533d78060b73c0e54373.png",
+    "static/media/book1.png": "/bookstore/static/media/book1.c4e77d368c3924042837.png",
+    "static/media/revicons.eot": "/bookstore/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/bookstore/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/bookstore/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/bookstore/index.html",
+    "main.d46bb727.css.map": "/bookstore/static/css/main.d46bb727.css.map",
+    "main.985280c6.js.map": "/bookstore/static/js/main.985280c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5f9f654.css",
-    "static/js/main.0c2a3bc5.js"
+    "static/css/main.d46bb727.css",
+    "static/js/main.985280c6.js"
   ]
 }
